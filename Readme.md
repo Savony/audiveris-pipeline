@@ -1,14 +1,14 @@
 # Voraussetzungen
 
-Linux mit installiertem Flatpak Audiveris und Python 3.12.X
-**Freigabe der gewünschten Eingabe- / Ausgabeordner an Flatpak Sandbox!**
+Linux mit installiertem Flatpak Audiveris und Python 3.12.X  
+**Freigabe der gewünschten Eingabe- / Ausgabeordner an Flatpak Sandbox!**  
 
 ## Skript
 
-Anpassen der Ein und Ausgabeordner im audiveris_converter selbst.
-Die beiden Dateien PDF2OMR und XML2CSV müssen sich im selben unterordner wie audiveris_converter befinden.
-Es muss nur audiveris_converter ausgeführt werden.
-Die anderen beiden Skripte können bei bedarf aber auch direkt über Terminal nach folgendem Schema benutzt werden: skript.py path/input path/output
+Anpassen der Ein und Ausgabeordner im audiveris_converter selbst.  
+Die beiden Dateien PDF2OMR und XML2CSV müssen sich im selben unterordner wie audiveris_converter befinden.  
+Es muss nur audiveris_converter ausgeführt werden.  
+Die anderen beiden Skripte können bei bedarf aber auch direkt über Terminal nach folgendem Schema benutzt werden: skript.py path/input path/output  
 
 ## Features
 
